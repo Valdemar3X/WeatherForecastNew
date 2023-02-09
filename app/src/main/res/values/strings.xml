@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="City">Please enter the name of the city</string>
+
+</resources>
